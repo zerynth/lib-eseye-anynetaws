@@ -1,0 +1,15 @@
+---
+description: Eseye AnyNet AWS support
+fullname: lib.eseye.anynetaws
+info:
+    chip_manufacturer: Eseye
+    chip_name: '-'
+    name: Zerynth Eseye AnyNet AWS Library
+    type: IoT Cloud
+keywords:
+- aws
+- iot
+- eseye
+- anynet
+title: Eseye AnyNet AWS Library
+...
